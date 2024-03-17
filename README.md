@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Vivien Evgueiniev</h1>
+<h1 align="center">Hi 👋, My name is Vivien Evgueniev</h1>
 <h3 align="center">A passionate backend Developer, looking for making a successful game</h3>
 
 - 🔭 I’m currently working on [UsbEncryption](https://github.com/TeleportYT/UsbEncryption)
